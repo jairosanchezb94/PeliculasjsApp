@@ -7,7 +7,8 @@ https://jairosanchezb94.github.io/PeliculasjsApp/home
 
 Esta web esta realizada con la ayuda de Angular y https://www.themoviedb.org/
 
-![Captura](https://user-images.githubusercontent.com/32551746/111671995-c96f3300-8819-11eb-8a2d-3b343ffd5625.JPG)
+![Captura de pantalla 2021-11-16 191527](https://user-images.githubusercontent.com/32551746/142042360-d40aba19-6c12-4f0c-a77a-36a1bda1878c.png)
+
 
 Esta web se mantendrá actualizada de las novedades en el sector cine. 
 
